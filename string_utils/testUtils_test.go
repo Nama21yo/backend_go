@@ -8,7 +8,7 @@ import (
 func TestWordFrequency(t *testing.T) {
 	input := "Go is fun. Go is powerful. Go Go Go!"
 	expected := map[string]int{
-		"go":       4,
+		"go":       5,
 		"is":       2,
 		"fun":      1,
 		"powerful": 1,
