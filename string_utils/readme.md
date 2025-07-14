@@ -78,7 +78,8 @@ go test
 
 ### Sample Test Output
 
-![Test Output](https://gist.github.com/user-attachments/assets/placeholder-test-output.png)
+<img width="749" height="96" alt="Screenshot_20250714_164139" src="https://github.com/user-attachments/assets/051c3f11-4d6d-4d4e-9ede-6e86b127973d" />
+
 
 Replace the above image link with your own test result screenshot.
 
@@ -102,8 +103,7 @@ func main() {
 ```
 
 ## Sample Output
-
-![Sample Run Output](https://gist.github.com/user-attachments/assets/placeholder-run-output.png)
+<img width="749" height="96" alt="Screenshot_20250714_164003" src="https://github.com/user-attachments/assets/c2fab34e-e9af-4711-aa69-cfd7247ebdbd" />
 
 Replace the above image link with a screenshot of the actual output.
 
