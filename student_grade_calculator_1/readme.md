@@ -40,7 +40,8 @@ This is a console-based Go application that allows students to calculate their a
 
 Below is an example of how the program behaves when run from the terminal:
 
-![Run Example](https://gist.github.com/user-attachments/assets/c3f50814-2a77-4b4d-b02b-a99d69804bf3)
+<img width="499" height="366" alt="Screenshot_20250714_154425" src="https://github.com/user-attachments/assets/941cd0e9-7609-4113-ae7c-8cb94699d6de" />
+
 
 ## Running Tests
 
@@ -52,7 +53,8 @@ go test
 
 Example output of running tests:
 
-![Test Output](https://gist.github.com/user-attachments/assets/ed1b4546-7e4e-4214-8ec3-5ad816e971d8)
+<img width="756" height="253" alt="Screenshot_20250714_154841" src="https://github.com/user-attachments/assets/6fafa9c2-7ed4-431f-919d-cabb9ea773d1" />
+
 
 ## Project Structure
 
