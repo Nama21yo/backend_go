@@ -80,9 +80,6 @@ go test
 
 <img width="749" height="96" alt="Screenshot_20250714_164139" src="https://github.com/user-attachments/assets/051c3f11-4d6d-4d4e-9ede-6e86b127973d" />
 
-
-Replace the above image link with your own test result screenshot.
-
 ## Example Program
 
 ```go
@@ -103,9 +100,8 @@ func main() {
 ```
 
 ## Sample Output
-<img width="749" height="96" alt="Screenshot_20250714_164003" src="https://github.com/user-attachments/assets/c2fab34e-e9af-4711-aa69-cfd7247ebdbd" />
 
-Replace the above image link with a screenshot of the actual output.
+<img width="749" height="96" alt="Screenshot_20250714_164003" src="https://github.com/user-attachments/assets/c2fab34e-e9af-4711-aa69-cfd7247ebdbd" />
 
 ## Requirements
 
