@@ -8,4 +8,7 @@ require (
     github.com/google/uuid v1.4.0
     golang.org/x/crypto v0.9.0
     github.com/joho/godotenv v1.5.1
+    go get github.com/stretchr/testify@v1.9.0
+    go mod tidy
+
 )
